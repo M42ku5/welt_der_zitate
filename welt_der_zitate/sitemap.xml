@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/index.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/kategorien.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/autoren.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/kontakt.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/impressum.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://schmieder.bplaced.net/datenschutz.html/</loc>
+
+      <lastmod>2019-09-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+</urlset>
